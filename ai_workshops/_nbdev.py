@@ -6,8 +6,8 @@ index = {}
 
 modules = []
 
-doc_url = "https://fastai.github.io/ai_workshops/"
+doc_url = "https://aida-uiuc.github.io/ai_workshops/"
 
-git_url = "https://github.com/fastai/ai_workshops/tree/master/"
+git_url = "https://github.com/aida-uiuc/ai_workshops/tree/master/"
 
 def custom_doc_links(name): return None
