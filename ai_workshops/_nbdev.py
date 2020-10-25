@@ -2,10 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"data": "01_image_classification.ipynb"}
+index = {}
 
-modules = ["introduction.py",
-           "image_classification.py"]
+modules = []
 
 doc_url = "https://fastai.github.io/ai_workshops/"
 

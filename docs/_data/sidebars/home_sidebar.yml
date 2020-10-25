@@ -10,10 +10,10 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: 'Week 0: Introduction'
+      title: Week 0 - Introduction
       url: introduction.html
     - output: web,pdf
-      title: 'Week 1: Image Classification'
+      title: Week 1 - Image Classification
       url: image_classification.html
     output: web
     title: ai_workshops
