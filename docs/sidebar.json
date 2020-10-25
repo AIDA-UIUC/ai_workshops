@@ -2,6 +2,7 @@
   "ai_workshops": {
     "Overview": "/",
     "Week 0: Introduction": "introduction.html",
-    "Week 1 - Image Classification": "image_classification.html"
+    "Week 1 - Image Classification": "image_classification.html",
+    "Week 2 - Data Augmentation": "data_augmentation.html"
   }
 }
