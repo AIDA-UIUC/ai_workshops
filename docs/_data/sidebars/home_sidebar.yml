@@ -20,7 +20,7 @@ entries:
       url: data_augmentation.html
     - output: web,pdf
       title: Week 3 - Semantic Segmentation
-      url: semantic_segmentationn.html
+      url: semantic_segmentation.html
     output: web
     title: ai_workshops
   output: web
