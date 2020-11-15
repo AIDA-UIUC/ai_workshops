@@ -21,6 +21,9 @@ entries:
     - output: web,pdf
       title: Week 3 - Semantic Segmentation
       url: semantic_segmentation.html
+    - output: web,pdf
+      title: Week 4 - Convolution
+      url: convolution.html
     output: web
     title: ai_workshops
   output: web
